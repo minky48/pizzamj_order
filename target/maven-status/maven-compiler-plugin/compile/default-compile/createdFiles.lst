@@ -1,0 +1,13 @@
+pizzamj\OrderApplication.class
+pizzamj\OrderCanceled.class
+pizzamj\Order.class
+pizzamj\Ordered.class
+pizzamj\PolicyHandler.class
+pizzamj\external\PaymentService.class
+pizzamj\OrderController.class
+pizzamj\OrderRepository.class
+pizzamj\config\kafka\KafkaProcessor.class
+pizzamj\AbstractEvent.class
+pizzamj\AbstractEvent$1.class
+pizzamj\external\Payment.class
+pizzamj\PaymentCanceled.class
